@@ -1,2 +1,0 @@
-# herman-common
-common
